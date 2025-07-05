@@ -88,9 +88,11 @@ const Skills = () => {
               　(請求書自動作成ツールなど)
             </p>
             <p>
-              ◼️React：PGスクール学習3ヶ月
+              ◼️Python：実務経験1年
               <br />
-              ・現在勉強中 (Worksに成果物掲載)
+              ・Selenium、pywinautoを用いたRPAの開発
+              <br />
+              ・pandas、openpyxlを用いたデータ整形ツールの開発
             </p>
             <p>
               ◼️RPA：実務経験1年
